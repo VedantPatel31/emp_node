@@ -1,0 +1,5 @@
+firstName,lastName,salary,state,city,joiningDate,email,password
+John,Doe,50000,California,Los Angeles,23-09-2023,johndoe@email.com,password123
+Jane,Smith,60000,New York,New York City,24-09-2023,janesmith@email.com,securepass456
+Bob,Johnson,55000,Texas,Houston,25-09-2023,bobjohnson@email.com,secretword789
+Alice,Williams,52000,Florida,Miami,26-09-2023,alicewilliams@email.com,confidential987

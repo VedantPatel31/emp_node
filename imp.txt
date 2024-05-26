@@ -1,0 +1,5 @@
+npm init = package create karva mate
+npm i express = node_modules mate
+npm i nodemon -g = nodemon install mate
+ctrl c = restart mate
+cls = screen clear karva mate
